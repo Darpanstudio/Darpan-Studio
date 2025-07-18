@@ -1,1 +1,73 @@
-# Darpan-Studio
+# Darpan-Studi<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Darpan Studio Photography</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="overlay">
+      <h1>Capture Your Love & Lifetime Memories</h1>
+      <p>Professional Wedding & Portrait Photography</p>
+      <a href="#contact" class="btn">Book Now</a>
+    </div>
+  </header>
+
+  <section class="section about">
+    <h2>Our Story</h2>
+    <p>Darpan Studio is a team of passionate photographers dedicated to capturing your most beautiful moments with creativity and heart.</p>
+  </section>
+
+  <section class="section services">
+    <h2>Our Services</h2>
+    <div class="grid">
+      <div class="card">
+        <img src="bride.jpg" alt="Candid Photography" />
+        <h3>Candid Photography</h3>
+        <p>Natural, unscripted, and truly beautiful.</p>
+      </div>
+      <div class="card">
+        <img src="wedding.jpg" alt="Wedding Highlights" />
+        <h3>Wedding Highlights</h3>
+        <p>Elegant and emotional storytelling through photos.</p>
+      </div>
+      <div class="card">
+        <img src="baby.jpg" alt="Baby Shoot" />
+        <h3>Baby Shoots</h3>
+        <p>Adorable and timeless moments of your little ones.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section gallery">
+    <h2>Latest Work</h2>
+    <div class="grid">
+      <img src="photo1.jpg" alt="Gallery Image" />
+      <img src="photo2.jpg" alt="Gallery Image" />
+      <img src="photo3.jpg" alt="Gallery Image" />
+    </div>
+  </section>
+
+  <section class="section testimonials">
+    <h2>What Clients Say</h2>
+    <p>“Darpan Studio made our big day unforgettable!” – Riya & Aman</p>
+  </section>
+
+  <section id="contact" class="section contact">
+    <h2>Book a Session</h2>
+    <form>
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Email" required />
+      <textarea placeholder="Your Message"></textarea>
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 Darpan Studio | Follow us on 
+      <a href="#">Instagram</a> & <a href="#">Facebook</a></p>
+  </footer>
+</body>
+</html>o
